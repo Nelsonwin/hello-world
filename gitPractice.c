@@ -2,7 +2,7 @@
 
 int main() {
     int x = 28;
-    int y = 50;
+    int y = 51;
 
     printf("x is %d\n", x);
     printf("y is %d\n", y);
