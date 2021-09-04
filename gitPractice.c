@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int x = 28;
+    int x = 17;
     int y = 50;
 
     printf("x is %d\n", x);
