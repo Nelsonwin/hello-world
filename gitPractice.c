@@ -15,6 +15,7 @@ int main() {
     printf("x is now %d\n", x);
     printf("y is now %d\n", y);
     temp ++;
+    temp -= 1
     printf("temp is %d\n", temp);
 
 
