@@ -22,6 +22,25 @@ int main() {
     temp --;
     printf("temp is %d\n", temp);
 
+    int n;
+
+    printf("Enter number of stars\n");
+    scanf("%d", &n);
+
+    int i, j;
+
+    for (i = 0; i < n; i++) {
+
+        for (j = 0; j <= i; j++) {
+            printf("*");
+        }
+
+        printf("\n");
+        j = 0;
+        
+    }
+    
+
 
     return 0;
 }
