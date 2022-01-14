@@ -11,6 +11,9 @@ int main() {
     int temp = x;
     x = y;
     y = temp;
+    
+    printf("Enter the value of x\n");
+    scanf("%d", &x);
 
     printf("x is now %d\n", x);
     printf("y is now %d\n", y);
