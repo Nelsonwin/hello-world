@@ -14,6 +14,7 @@ int main() {
 
     printf("x is now %d\n", x);
     printf("y is now %d\n", y);
+    printf("temp is %d\n", temp);
 
 
     return 0;
